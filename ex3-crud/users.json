@@ -1,0 +1,20 @@
+{
+    "allUsers": [
+        {
+            "id": "5aec49dglf8lobsd",
+            "username": "Ayal",
+            "Email": "Ayal@gmail.com"
+        },
+        {
+            "id": "5aec4es0lf8lkaxa",
+            "username": "Aml",
+            "Email": "aml12@gmail.com",
+            "password": "1234"
+        },
+        {
+            "id": "5aec4aiklf8konzq",
+            "username": "Ale",
+            "Email": "ale1@gmail.com"
+        }
+    ]
+}
