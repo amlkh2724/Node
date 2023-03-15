@@ -5,8 +5,8 @@ const username = 'Ayal';
 
 const updateUser = {
     id: uniqid(),
-    username: 'Ayal',
-    Email: 'Ayal@gmail.com',
+    username: 'Aml',
+    Email: 'Ayal123@gmail.com',
 }
 
 const data = fs.readFileSync('users.json');

@@ -3,8 +3,8 @@ const fs = require('fs');
 
 const newUser = {
     id: uniqid(),
-    username: 'Ale',
-    Email: 'ale1@gmail.com',
+    username: 'Ale1',
+    Email: 'ale12@gmail.com',
 }
 
 const data = fs.readFileSync('users.json');
